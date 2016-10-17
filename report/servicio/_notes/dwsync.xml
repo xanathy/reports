@@ -3,7 +3,7 @@
 <file name="rpt_PrincipalSS.cfm" server="//192.168.0.66/wwwroot/" local="131200778888083668" remote="131200778880000000" Dst="2" />
 <file name="rpt_Gen.cfm" server="//192.168.0.66/wwwroot/" local="131200778575585595" remote="131200778570000000" Dst="2" />
 <file name="rpt_GenPdf.cfm" server="//192.168.0.66/wwwroot/" local="131200779361944538" remote="131200779360000000" Dst="2" />
-<file name="rpt_GenExcel.cfm" server="//192.168.0.66/wwwroot/" local="131202504396894714" remote="131202504390000000" Dst="2" />
+<file name="rpt_GenExcel.cfm" server="//192.168.0.66/wwwroot/" local="131212145445836830" remote="131212145440000000" Dst="2" />
 <file name="rpt_GenExcel2.cfm" server="//192.168.0.66/wwwroot/" local="131202465392342742" remote="131202465390000000" Dst="2" />
-<file name="create.cfm" server="//192.168.0.66/wwwroot/" local="131202655509829952" remote="131202655500000000" Dst="2" />
+<file name="create22.cfm" server="//192.168.0.66/wwwroot/" local="131206796350465501" remote="131206796350000000" Dst="2" />
 </dwsync>
